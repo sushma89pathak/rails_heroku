@@ -1,0 +1,9 @@
+development:
+  username: postgres
+  database: blog_development
+  password: root
+  adapter:  postgresql
+  encoding: UTF8
+  timeout:  500
+  host:     localhost
+  pool:     5
